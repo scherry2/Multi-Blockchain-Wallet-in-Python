@@ -50,7 +50,7 @@ BTCTEST = 'btc-test'
 
 3. Use these anytime you reference these strings, both in function calls, and in setting object keys.
 
-
+![alt text](https://github.com/scherry2/Multi-Blockchain-Wallet-in-Python/blob/main/screenshots/Screen%20Shot%202020-11-11%20at%207.02.29%20PM.png)
 
 
 ## Generate a Mnemonic
@@ -89,7 +89,7 @@ Numderive (--numderive) to set number of child keys generated
 When done properly, the final object should look something like this (there are only 3 children each in this image):
 
 
-
+![alt text](https://github.com/scherry2/Multi-Blockchain-Wallet-in-Python/blob/main/screenshots/Screen%20Shot%202020-11-11%20at%207.04.42%20PM.png)
 
 
 ## Linking the transaction signing libraries
@@ -160,6 +160,7 @@ For ETH, return w3.eth.sendRawTransaction(signed.rawTransaction)
 For BTCTEST, return NetworkAPI.broadcast_tx_testnet(signed)
 
 
+![alt text](https://github.com/scherry2/Multi-Blockchain-Wallet-in-Python/blob/main/screenshots/Screen%20Shot%202020-11-11%20at%207.09.14%20PM.png)
 
 
 ## Send some transactions!
