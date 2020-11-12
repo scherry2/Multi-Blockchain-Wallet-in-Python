@@ -208,3 +208,6 @@ or one of the node keystore files.
 
 5. Send a transaction from the pre-funded address within the wallet to another, then copy the txid into
 MyCrypto's TX Status, and screenshot the successful transaction like so:
+
+![alt text](https://github.com/scherry2/Multi-Blockchain-Wallet-in-Python/blob/main/screenshots/Screen%20Shot%202020-11-11%20at%207.09.14%20PM.png)
+
